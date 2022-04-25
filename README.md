@@ -1,5 +1,5 @@
 # epidemic-modelling
-[Computer Modeling] SIR/SIRS/SIRQ/ISIR/SEIR differential equation models for numerical epidemic modelling in MATLAB.
+[Computer Modeling] SIR/SIRS/SIRQ/ISIR/SEIR comparmental models for numerical epidemic modelling in MATLAB.
 
 Homework/project in **Practicum in Physics 2 (13E061PF2)** at University of Belgrade, School of Electrical Engineering.
 
